@@ -1,0 +1,147 @@
+package com.rs.game.player.dialogues.impl;
+
+import com.rs.game.player.dialogues.Dialogue;
+
+public class NewPlayerTutorial extends Dialogue {
+
+	@Override
+	public void start() {
+		player.getInterfaceManager().closeCombatStyles(); // Disables Combat Tab
+		player.getInterfaceManager().closeSkills(); // Disables Skills Tab
+		player.getInterfaceManager().closeQuests(); // Disables Quest Tab
+		player.getInterfaceManager().closeInventory(); // Disables Inventory Tab
+		player.getInterfaceManager().closeEquipment(); // Disables Equipment Tab
+		player.getInterfaceManager().closePrayerBook(); // Disables Prayer Tab
+		player.getInterfaceManager().closeMagicBook(); // Disables Magic Tab
+		player.getInterfaceManager().closeEmotes(); // Disables Emotes Tab
+		player.getInterfaceManager().closeSettings(); // Disables Settings Tab
+		player.getHintIconsManager().removeUnsavedHintIcon();
+		
+		stage = 1;
+		sendDialogue("Server Guide", "Welcome to Vengium, " + player.getUsername() +".", "This will be a quick tutorial, please click continue.");
+		stage = 2;
+	}
+
+	@Override
+	public void run(int interfaceId, int componentId) {
+		if (stage == 2) {
+			player.getPackets().sendConfig(1021, 0);
+			sendDialogue("This is the Player Support Tab.", "Here, you can sumbit help tickets and report bugs", "to help improve your game experience on Vengium.");
+			stage = 3;
+		}
+
+		/**
+		 * Third Stage of Tutorial.
+		 */
+
+		else if (stage == 3) {
+			sendDialogue("Be sure you only submit a ticket when you", "are in need of any type of help." , "Please do not abuse it.");
+			stage = 4;
+		}
+
+		/**
+		 * Fourth Stage of Tutorial.
+		 */
+
+		else if (stage == 4) {
+			player.getInterfaceManager().sendPlayerPanel();
+			player.getPackets().sendConfig(1021, 4);
+			sendDialogue("Now, please click on the flashing tab", "then click continue.");
+			stage = 5;
+		}
+
+		/**
+		 * Fifth Stage of Tutorial.
+		 */
+
+		else if (stage == 5) {
+			player.getPackets().sendConfig(1021, 0);
+			sendDialogue("This is the Vengium Panel.", "This is used for quck access to options such as", "Account Settings(Telelock or Outfits), Teleports, and other available options.");
+			stage = 6;
+		}
+
+		/**
+		 * Sixth Stage of Tutorial.
+		 */
+
+		else if (stage == 6) {
+			sendDialogue("Please use any of the available options", "to your advantage. They are there for your own use.");
+			stage = 12;
+		}
+
+		/**
+		 * The Seventh Stage of Tutorial.
+		 */
+
+		else if (stage == 7) {
+			player.getHintIconsManager().addHintIcon(1345, 5190, 0, 100, 0, 0, -1, false);
+			sendDialogue("Now, please turn the world using your arrow keys", "toward the flashing arrow. This is where the shops", "are located. Use shops to buy and sell your items.");
+			stage = 8;
+		}
+
+		/**
+		 * The Eighth Stage of Tutorial.
+		 */
+
+		else if (stage == 8) {
+			player.getHintIconsManager().removeUnsavedHintIcon();
+			player.getHintIconsManager().addHintIcon(2982, 3296, 0, 100, 0, 0, -1, false);
+			sendDialogue("Here are the Bank Booths. Use these to store your", "items for keep. Nobody will ever be able to have access", "to your bank. Please use these to your advantage.");
+			stage = 12;
+		}
+
+		/**
+		 * The Ninth Stage of Tutorial.
+		 */
+
+		else if (stage == 9) {
+			sendDialogue("Elveron wishes the best of luck on your adventure", "and hope you are prepared for the world that you have yet", "to discover. Updates are added every single day!");
+			stage = 10;
+		}
+
+		/**
+		 * The Tenth Stage of Tutorial.
+		 */
+
+		else if (stage == 10) {
+			player.getInterfaceManager().sendInterfaces();
+			player.closeInterfaces();
+			player.starterstage = 2;
+			//player.getDialogueManager().startDialogue("StarterClass");
+		}
+
+		/**
+		 * The Eleventh Stage of Tutorial.
+		 */
+
+		else if (stage == 11) {
+			player.unlock();
+			player.getInterfaceManager().sendInterfaces();
+			player.closeInterfaces();
+			player.welcomeInterface();
+		}
+
+		else if (stage == 12) {
+			player.getHintIconsManager().removeUnsavedHintIcon();
+			sendDialogue("Need access to new items? Go venture to the shops!", "To access this area, use the command ::shops", "We can add more to your request.");
+			stage = 13;
+		} else if (stage == 13) {
+			sendDialogue("To start off making money, I suggest you start", "thieving, where you can loot many items", "ranging from crap to valuable.");
+			stage = 14;
+		} else if (stage == 14) {
+			sendDialogue("You can sell any of your loots from skilling,", "pvm, pking, or anything to the general store.", "This is how you make your money.");
+			stage = 15;
+		} else if (stage == 15) {
+			sendDialogue("To begin training, it is suggested to go", "to the Rock Crabs. To get around Elveron", "simply use your Crystal Teleport.");
+			stage = 9;
+		}
+	}
+	@Override
+	public void finish() {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+
+}

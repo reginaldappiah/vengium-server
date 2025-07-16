@@ -1,0 +1,4124 @@
+//Stankers spawned by dsnop
+383 - 2575 3484 0
+//Giant bat spawned by dsnop
+78 - 2578 3487 0
+//Giant bat spawned by dsnop
+78 - 2580 3478 0
+//Giant bat spawned by dsnop
+78 - 2586 3473 0
+//Giant bat spawned by dsnop
+78 - 2574 3471 0
+//Giant bat spawned by dsnop
+78 - 2570 3467 0
+//Giant bat spawned by dsnop
+78 - 2566 3482 0
+//Mountain troll spawned by dsnop
+1106 - 2772 10153 0
+//Mountain troll spawned by dsnop
+1110 - 2770 10144 0
+//Mountain troll spawned by dsnop
+1106 - 2776 10143 0
+//Mountain troll spawned by dsnop
+1107 - 2781 10144 0
+//Mountain troll spawned by dsnop
+1108 - 2783 10143 0
+//Mountain troll spawned by dsnop
+1109 - 2784 10136 0
+//Mountain troll spawned by dsnop
+1111 - 2786 10132 0
+//null spawned by dsnop
+2205 - 2842 10129 0
+//Derni spawned by dsnop
+1849 - 2870 10138 0
+//Dernu spawned by dsnop
+1848 - 2870 10139 0
+//Miodvetnir spawned by dsnop
+1847 - 2870 10140 0
+//Black Guard spawned by dsnop
+13366 - 2874 10118 0
+//Dwarf spawned by dsnop
+120 - 2871 10120 0
+//Dwarf spawned by dsnop
+120 - 2866 10121 0
+//Dwarf spawned by dsnop
+120 - 2854 10127 0
+//Dwarf spawned by dsnop
+120 - 2837 10149 0
+//Dwarf spawned by dsnop
+120 - 2831 10152 0
+//Dwarven Ferryman spawned by dsnop
+1844 - 2855 10143 0
+//Dwarf spawned by dsnop
+120 - 2871 10171 0
+//Dwarf spawned by dsnop
+120 - 2860 10166 0
+//null spawned by dsnop
+1836 - 2824 10168 0
+//null spawned by dsnop
+1845 - 2873 10166 0
+//null spawned by dsnop
+8756 - 2871 10166 0
+//null spawned by dsnop
+8817 - 2870 10165 0
+//null spawned by dsnop
+2164 - 2838 10205 0
+//null spawned by dsnop
+2163 - 2836 10205 0
+//Stonemason spawned by dsnop
+4248 - 2848 10185 0
+//Barman spawned by dsnop
+2179 - 2840 10197 0
+//Gauss spawned by dsnop
+2196 - 2838 10197 0
+//null spawned by dsnop
+6732 - 2836 10194 0
+//null spawned by dsnop
+6733 - 2835 10194 0
+//null spawned by dsnop
+6734 - 2837 10192 0
+//null spawned by dsnop
+13292 - 2835 10191 0
+//null spawned by dsnop
+13291 - 2834 10192 0
+//Inn Keeper spawned by dsnop
+2177 - 2840 10196 1
+//null spawned by dsnop
+2408 - 2836 10193 1
+//null spawned by dsnop
+2407 - 2835 10192 1
+//Lava-flow miner spawned by dsnop
+13407 - 2847 10193 0
+//Black Guard spawned by dsnop
+2133 - 2847 10201 0
+//Lava-flow miner spawned by dsnop
+13403 - 2847 10210 0
+//Tombar spawned by dsnop
+2199 - 2855 10200 0
+//Rind the gardener spawned by dsnop
+2170 - 2854 10196 0
+//Dromund spawned by dsnop
+2169 - 2837 10221 0
+//Dromund's cat spawned by dsnop
+2140 - 2835 10226 0
+//Santiri spawned by dsnop
+2152 - 2829 10228 0
+//Black Guard Berserker spawned by dsnop
+2134 - 2824 10219 0
+//Black Guard spawned by dsnop
+2131 - 2821 10213 0
+//null spawned by dsnop
+2153 - 2827 10199 0
+//null spawned by dsnop
+2129 - 2826 10217 0
+//Lieutenant Brae spawned by dsnop
+8749 - 2827 10216 0
+//null spawned by dsnop
+13365 - 2827 10213 0
+//Black Guard spawned by dsnop
+2132 - 2827 10211 0
+//Black Guard Berserker spawned by dsnop
+2135 - 2825 10209 0
+//Black Guard Berserker spawned by dsnop
+2136 - 2827 10213 1
+//Supreme Commander spawned by dsnop
+8819 - 2827 10209 1
+//null spawned by dsnop
+8753 - 2827 10218 0
+//Haera spawned by dsnop
+2189 - 2850 10223 0
+//Hegir spawned by dsnop
+2188 - 2852 10224 0
+//Myndill spawned by dsnop
+2197 - 2850 10230 0
+//Librarian spawned by dsnop
+2165 - 2858 10225 0
+//Assistant spawned by dsnop
+2166 - 2860 10227 0
+//Customer spawned by dsnop
+2168 - 2863 10223 0
+//null spawned by dsnop
+13415 - 2860 10227 0
+//null spawned by dsnop
+13330 - 2861 10227 0
+//Customer spawned by dsnop
+2167 - 2861 10224 1
+//Lava-flow miner spawned by dsnop
+13408 - 2866 10231 0
+//Thak spawned by dsnop
+8786 - 2873 10235 0
+//Lava-flow miner spawned by dsnop
+13406 - 2889 10232 0
+//null spawned by dsnop
+2231 - 2890 10226 0
+//null spawned by dsnop
+2231 - 2890 10224 0
+//Karl spawned by dsnop
+2195 - 2901 10229 0
+//Ulifed spawned by dsnop
+2193 - 2899 10218 0
+//Kjut spawned by dsnop
+2198 - 2904 10217 0
+//null spawned by dsnop
+2202 - 2912 10222 0
+//Reinald spawned by dsnop
+2194 - 2925 10225 0
+//null spawned by dsnop
+2142 - 2905 10205 0
+//Blasidar the sculptor spawned by dsnop
+2141 - 2907 10203 0
+//Tati spawned by dsnop
+2160 - 2924 10211 0
+//Runvastr spawned by dsnop
+2190 - 2921 10202 0
+//Sune spawned by dsnop
+2191 - 2920 10210 0
+//Lava-flow miner spawned by dsnop
+13404 - 2914 10202 0
+//Rowdy dwarf spawned by dsnop
+2187 - 2912 10199 0
+//Smokin' Joe spawned by dsnop
+2952 - 2931 10213 0
+//Bentamir spawned by dsnop
+2192 - 2931 10218 0
+//Lava-flow miner Sven spawned by dsnop
+13396 - 2939 10200 0
+//null spawned by dsnop
+13367 - 2938 10200 0
+//null spawned by dsnop
+13368 - 2938 10201 0
+//null spawned by dsnop
+13369 - 2938 10199 0
+//null spawned by dsnop
+13370 - 2937 10201 0
+//Lava-flow miner spawned by dsnop
+13405 - 2923 10193 0
+//Factory Manager spawned by dsnop
+2171 - 2929 10184 0
+//null spawned by dsnop
+2182 - 2935 10179 0
+//Cart conductor spawned by dsnop
+2181 - 2926 10177 0
+//null spawned by dsnop
+2183 - 2922 10179 0
+//Cart conductor spawned by dsnop
+2180 - 2919 10180 0
+//null spawned by dsnop
+2175 - 2929 10187 0
+//null spawned by dsnop
+2174 - 2931 10188 0
+//null spawned by dsnop
+2172 - 2929 10191 0
+//null spawned by dsnop
+2173 - 2930 10193 0
+//Barmaid spawned by dsnop
+2178 - 2915 10192 0
+//The Beast spawned by dsnop
+2941 - 2913 10189 0
+//Blandebir spawned by dsnop
+2321 - 2915 10194 1
+//Cart conductor spawned by dsnop
+2409 - 2921 10167 0
+//null spawned by dsnop
+2184 - 2908 10187 0
+//Black Guard spawned by dsnop
+2132 - 2890 10197 0
+//Black Guard spawned by dsnop
+2131 - 2890 10192 0
+//Black Guard spawned by dsnop
+2130 - 2889 10205 0
+//Randivor spawned by dsnop
+2156 - 2892 10212 0
+//Hervi spawned by dsnop
+2157 - 2888 10212 0
+//Nolar spawned by dsnop
+2158 - 2886 10208 0
+//Hirko spawned by dsnop
+4558 - 2885 10202 0
+//Gulldamar spawned by dsnop
+2159 - 2885 10198 0
+//null spawned by dsnop
+2162 - 2886 10191 0
+//null spawned by dsnop
+2154 - 2869 10190 0
+//Odmar spawned by dsnop
+2200 - 2864 10192 0
+//Professor Manglethorp spawned by dsnop
+4583 - 2870 10198 0
+//null spawned by dsnop
+2155 - 2868 10200 0
+//Dwarven Engineer spawned by dsnop
+1840 - 2871 10198 0
+//Audmann spawned by dsnop
+2201 - 2866 10207 0
+//null spawned by dsnop
+2161 - 2868 10210 0
+//Vigr spawned by dsnop
+2151 - 2872 10209 0
+//White Chisel Director spawned by dsnop
+2104 - 2889 10204 1
+//White Chisel Secretary spawned by dsnop
+2096 - 2890 10207 1
+//Silver Cog Director spawned by dsnop
+2105 - 2894 10196 1
+//Silver Cog Secretary spawned by dsnop
+2097 - 2891 10196 1
+//Trade floor guard spawned by dsnop
+8813 - 2887 10197 1
+//Trade floor guard spawned by dsnop
+8813 - 2887 10195 1
+//Trade floor guard spawned by dsnop
+8813 - 2887 10193 1
+//Green Gemstone Secretary spawned by dsnop
+2095 - 2889 10211 1
+//Green Gemstone Director spawned by dsnop
+2103 - 2891 10210 1
+//null spawned by dsnop
+2098 - 2890 10192 1
+//Brown Engine Director spawned by dsnop
+2106 - 2893 10190 1
+//null spawned by dsnop
+2404 - 2872 10189 1
+//null spawned by dsnop
+2405 - 2870 10190 1
+//null spawned by dsnop
+2403 - 2868 10188 1
+//null spawned by dsnop
+2406 - 2870 10187 1
+//Purple Pewter Director spawned by dsnop
+2100 - 2869 10195 1
+//null spawned by dsnop
+2092 - 2871 10195 1
+//Trade floor guard spawned by dsnop
+8813 - 2872 10203 1
+//Trade floor guard spawned by dsnop
+8813 - 2872 10202 1
+//Trade floor guard spawned by dsnop
+8813 - 2872 10204 1
+//Blue Opal Secretary spawned by dsnop
+2094 - 2869 10205 1
+//null spawned by dsnop
+2101 - 2867 10203 1
+//Trade floor guard spawned by dsnop
+8813 - 2869 10203 1
+//Yellow Fortune Director spawned by dsnop
+2102 - 2867 10208 1
+//null spawned by dsnop
+2093 - 2871 10209 1
+//Trade floor guard spawned by dsnop
+8813 - 2878 10197 1
+//Trade Referee spawned by dsnop
+2127 - 2880 10199 1
+//null spawned by dsnop
+2110 - 2877 10198 1
+//Trader spawned by dsnop
+2109 - 2876 10198 1
+//null spawned by dsnop
+2123 - 2878 10196 1
+//null spawned by dsnop
+2125 - 2876 10195 1
+//Trader spawned by dsnop
+2121 - 2881 10196 1
+//Trader spawned by dsnop
+2122 - 2881 10195 1
+//Trader spawned by dsnop
+2119 - 2883 10195 1
+//Trader spawned by dsnop
+2120 - 2884 10194 1
+//Trader spawned by dsnop
+2117 - 2883 10198 1
+//Trader spawned by dsnop
+2118 - 2885 10199 1
+//Trader spawned by dsnop
+2115 - 2882 10200 1
+//Trader spawned by dsnop
+2116 - 2883 10203 1
+//Trader spawned by dsnop
+2113 - 2881 10201 1
+//Trader spawned by dsnop
+2114 - 2879 10202 1
+//Trader spawned by dsnop
+2111 - 2876 10202 1
+//Trader spawned by dsnop
+2112 - 2876 10201 1
+//Ruth Savage spawned by dsnop
+14856 - 2894 3445 0
+//Mess Sergeant Ramsey spawned by dsnop
+14881 - 2896 3442 0
+//Shady Character spawned by dsnop
+15005 - 2891 3444 0
+//Druid spawned by dsnop
+15115 - 2892 3442 0
+//Shady Character spawned by dsnop
+15004 - 2891 3440 0
+//Druid spawned by dsnop
+15116 - 2887 3440 0
+//Brian O'Richard spawned by dsnop
+14706 - 3038 4968 0
+//Martin Thwait spawned by dsnop
+2270 - 3036 4961 0
+//Emerald Benedict spawned by dsnop
+14707 - 3028 4958 0
+//null spawned by dsnop
+18561 - 3440 3336 0
+//Bill Blakey spawned by dsnop
+8722 - 3424 3320 0
+//Afflicted spawned by dsnop
+1258 - 3464 3308 0
+//Afflicted spawned by dsnop
+1257 - 3466 3306 0
+//Afflicted spawned by dsnop
+1261 - 3470 3310 0
+//Afflicted spawned by dsnop
+1262 - 3472 3304 0
+//Afflicted spawned by dsnop
+1262 - 3475 3306 0
+//Afflicted spawned by dsnop
+1258 - 3482 3308 0
+//Afflicted spawned by dsnop
+1257 - 3477 3301 0
+//Afflicted spawned by dsnop
+1257 - 3470 3289 0
+//Afflicted spawned by dsnop
+1261 - 3478 3294 0
+//Afflicted spawned by dsnop
+1262 - 3494 3300 0
+//null spawned by dsnop
+7899 - 3489 3296 0
+//Afflicted spawned by dsnop
+1258 - 3476 3288 0
+//Afflicted spawned by dsnop
+1262 - 3472 3284 0
+//Afflicted spawned by dsnop
+1262 - 3473 3274 0
+//Afflicted spawned by dsnop
+1262 - 3488 3288 0
+//Afflicted spawned by dsnop
+1258 - 3490 3284 0
+//null spawned by dsnop
+7898 - 3495 3289 0
+//Afflicted spawned by dsnop
+1257 - 3495 3297 0
+//Afflicted spawned by dsnop
+1262 - 3498 3296 0
+//Afflicted spawned by dsnop
+1257 - 3501 3301 0
+//Afflicted spawned by dsnop
+1257 - 3506 3299 0
+//Afflicted spawned by dsnop
+1258 - 3507 3303 0
+//Afflicted spawned by dsnop
+1262 - 3513 3303 0
+//Afflicted spawned by dsnop
+1258 - 3514 3287 0
+//Afflicted spawned by dsnop
+1257 - 3515 3284 0
+//Cyreg Paddlehorn spawned by dsnop
+1567 - 3522 3284 0
+//Afflicted spawned by dsnop
+1257 - 3520 3278 0
+//Afflicted spawned by dsnop
+1262 - 3499 3276 0
+//Afflicted spawned by dsnop
+1261 - 3498 3274 0
+//Afflicted spawned by dsnop
+1257 - 3487 3270 0
+//Afflicted spawned by dsnop
+1258 - 3503 3286 0
+//Afflicted spawned by dsnop
+1261 - 3501 3285 0
+//Loar Shadow spawned by dsnop
+1240 - 3503 3285 0
+//Loar Shadow spawned by dsnop
+1240 - 3493 3286 0
+//Loar Shadow spawned by dsnop
+1240 - 3496 3289 0
+//Loar Shadow spawned by dsnop
+1240 - 3488 3289 0
+//Loar Shadow spawned by dsnop
+1240 - 3489 3296 0
+//Loar Shadow spawned by dsnop
+1240 - 3492 3299 0
+//Loar Shadow spawned by dsnop
+1240 - 3497 3299 0
+//Loar Shadow spawned by dsnop
+1240 - 3505 3303 0
+//Loar Shadow spawned by dsnop
+1240 - 3506 3300 0
+//Loar Shadow spawned by dsnop
+1240 - 3507 3315 0
+//Loar Shadow spawned by dsnop
+1240 - 3502 3318 0
+//Loar Shadow spawned by dsnop
+1240 - 3511 3320 0
+//Loar Shadow spawned by dsnop
+1240 - 3488 3303 0
+//Loar Shadow spawned by dsnop
+1240 - 3483 3303 0
+//Loar Shadow spawned by dsnop
+1240 - 3479 3306 0
+//Loar Shadow spawned by dsnop
+1240 - 3477 3297 0
+//Loar Shadow spawned by dsnop
+1240 - 3474 3284 0
+//Loar Shadow spawned by dsnop
+1240 - 3472 3275 0
+//Loar Shadow spawned by dsnop
+1240 - 3469 3275 0
+//Loar Shadow spawned by dsnop
+1240 - 3474 3279 0
+//Loar Shadow spawned by dsnop
+1240 - 3488 3272 0
+//Loar Shadow spawned by dsnop
+1240 - 3483 3270 0
+//Loar Shadow spawned by dsnop
+1240 - 3500 3273 0
+//Loar Shadow spawned by dsnop
+1240 - 3504 3271 0
+//Loar Shadow spawned by dsnop
+1240 - 3489 3287 0
+//Loar Shadow spawned by dsnop
+1240 - 3486 3284 0
+//Loar Shadow spawned by dsnop
+1240 - 3484 3289 0
+//null spawned by dsnop
+8916 - 2412 2843 0
+//null spawned by dsnop
+8915 - 2412 2843 0
+//null spawned by dsnop
+8915 - 2412 2843 0
+//Banker spawned by dsnop
+8948 - 2401 2842 0
+//Getorix spawned by dsnop
+7602 - 1690 5600 0
+//Reggie spawned by dsnop
+7601 - 1696 5604 0
+//Getorix spawned by dsnop
+7602 - 1696 5601 0
+//Alran spawned by dsnop
+7604 - 1695 5599 0
+//Pontimer spawned by dsnop
+7603 - 1698 5598 0
+//Banker spawned by dsnop
+7605 - 1703 5598 0
+//Fiara spawned by dsnop
+7600 - 1715 5603 0
+//null spawned by dsnop
+961 - 3374 3276 0
+//null spawned by dsnop
+1008 - 3381 3276 0
+//null spawned by dsnop
+963 - 3382 3269 0
+//null spawned by dsnop
+962 - 3377 3270 0
+//null spawned by dsnop
+959 - 3368 3276 0
+//Sabreen spawned by dsnop
+960 - 3362 3276 0
+//Arianwyn spawned by dsnop
+1202 - 2352 3172 0
+//Gwir spawned by dsnop
+8894 - 2353 3178 0
+//Teclyn spawned by dsnop
+2861 - 2346 3165 0
+//Amaethwr spawned by dsnop
+2860 - 2343 3164 0
+//Goreu spawned by dsnop
+2363 - 2338 3158 0
+//Mawrth spawned by dsnop
+2366 - 2335 3163 0
+//Dalldav spawned by dsnop
+2356 - 2325 3166 0
+//null spawned by dsnop
+2369 - 2331 3166 0
+//null spawned by dsnop
+2365 - 2336 3178 0
+//Eoin spawned by dsnop
+2368 - 2331 3175 0
+//Oronwen spawned by dsnop
+2353 - 2326 3177 0
+//Eudav spawned by dsnop
+2352 - 2333 3182 0
+//Ilfeen spawned by dsnop
+6557 - 2340 3172 0
+//Gethin spawned by dsnop
+2357 - 2340 3157 1
+//Banker spawned by dsnop
+2570 - 2337 3169 0
+//Banker spawned by dsnop
+2354 - 2351 3166 0
+//Banker spawned by dsnop
+2355 - 2354 3166 0
+//Ram spawned by dsnop
+3672 - 2323 3191 0
+//Ram spawned by dsnop
+3672 - 2322 3190 0
+//Ram spawned by dsnop
+3673 - 2322 3189 0
+//Sheep spawned by dsnop
+42 - 2320 3190 0
+//Sheep spawned by dsnop
+43 - 2321 3190 0
+//Sheep spawned by dsnop
+43 - 2324 3190 0
+//Sheep spawned by dsnop
+43 - 2325 3189 0
+//Elf warrior spawned by dsnop
+1183 - 2340 3178 0
+//Elf warrior spawned by dsnop
+1184 - 2330 3172 0
+//Elf warrior spawned by dsnop
+2359 - 2320 3172 0
+//null spawned by dsnop
+2369 - 2323 3172 0
+//Elf warrior spawned by dsnop
+2360 - 2325 3171 0
+//Elf warrior spawned by dsnop
+2361 - 2330 3172 0
+//Elf warrior spawned by dsnop
+2362 - 2341 3173 0
+//Elf warrior spawned by dsnop
+2361 - 2345 3168 0
+//Elf warrior spawned by dsnop
+2362 - 2342 3180 0
+//null spawned by dsnop
+2367 - 2350 3171 1
+//null spawned by dsnop
+2364 - 2350 3173 1
+//Elf warrior spawned by dsnop
+2361 - 2352 3167 1
+//Knight Dorian spawned by dsnop
+12196 - 2644 2677 0
+//Captain Ethar spawned by dsnop
+12195 - 2644 2676 0
+//null spawned by dsnop
+3800 - 2659 2675 0
+//null spawned by dsnop
+3790 - 2658 2666 0
+//null spawned by dsnop
+3791 - 2659 2663 0
+//null spawned by dsnop
+3793 - 2659 2660 0
+//null spawned by dsnop
+5956 - 2656 2666 0
+//null spawned by dsnop
+11505 - 2654 2663 0
+//Void Knight spawned by dsnop
+3786 - 2653 2664 0
+//Squire spawned by dsnop
+3799 - 2645 2664 0
+//null spawned by dsnop
+3797 - 2651 2659 0
+//null spawned by dsnop
+3798 - 2657 2654 0
+//null spawned by dsnop
+3796 - 2665 2660 0
+//null spawned by dsnop
+3792 - 2667 2653 0
+//null spawned by dsnop
+3794 - 2666 2650 0
+//null spawned by dsnop
+3795 - 2668 2650 0
+//null spawned by dsnop
+3789 - 2662 2649 0
+//null spawned by dsnop
+3788 - 2659 2648 0
+//null spawned by dsnop
+11514 - 2673 2664 0
+//null spawned by dsnop
+11521 - 2673 2655 0
+//null spawned by dsnop
+11516 - 2675 2658 0
+//null spawned by dsnop
+11517 - 2678 2656 0
+//null spawned by dsnop
+11509 - 2680 2663 0
+//null spawned by dsnop
+11520 - 2682 2654 0
+//null spawned by dsnop
+11519 - 2681 2656 0
+//null spawned by dsnop
+11500 - 2685 2665 0
+//null spawned by dsnop
+11518 - 2683 2666 0
+//null spawned by dsnop
+11515 - 2675 2670 0
+//null spawned by dsnop
+11497 - 2679 2670 0
+//Man spawned by innocent
+1 - 2650 3283 0
+//Man spawned by innocent
+1 - 2650 3283 0
+//Man spawned by innocent
+1 - 2651 3285 0
+//Man spawned by innocent
+1 - 2652 3285 0
+//Man spawned by innocent
+1 - 101 82 1
+//Man spawned by innocent
+2 - 101 81 1
+//Man spawned by innocent
+3 - 94 78 1
+//Woman spawned by innocent
+4 - 95 77 1
+//Woman spawned by innocent
+5 - 93 76 1
+//null spawned by innocent
+6 - 94 77 1
+//Farmer spawned by innocent
+7 - 95 77 1
+//Thief spawned by innocent
+8 - 96 77 1
+//Guard spawned by innocent
+9 - 96 77 1
+//Schoolgirl spawned by innocent
+10 - 97 77 1
+//null spawned by innocent
+11 - 97 77 1
+//Hallvar spawned by innocent
+12 - 98 77 1
+//Wizard spawned by innocent
+13 - 98 77 1
+//Liquid Gold Nymph spawned by innocent
+14 - 99 77 1
+//Warrior woman spawned by innocent
+15 - 100 77 1
+//Man spawned by innocent
+16 - 101 77 1
+//null spawned by innocent
+17 - 101 78 1
+//Al Kharid warrior spawned by innocent
+18 - 102 80 1
+//White Knight spawned by innocent
+19 - 102 80 1
+//Paladin spawned by innocent
+20 - 105 82 1
+//Hero spawned by innocent
+21 - 108 86 1
+//Sneakerpeeper spawned by innocent
+22 - 108 90 1
+//Knight of Ardougne spawned by innocent
+23 - 109 94 1
+//null spawned by innocent
+24 - 109 98 1
+//null spawned by innocent
+25 - 108 103 1
+//Knight of Ardougne spawned by innocent
+26 - 108 105 1
+//Archer spawned by innocent
+27 - 111 103 1
+//Zookeeper spawned by innocent
+28 - 110 103 1
+//Musician spawned by innocent
+29 - 112 107 1
+//null spawned by innocent
+30 - 110 110 1
+//null spawned by innocent
+31 - 108 110 1
+//Guard spawned by innocent
+32 - 107 111 1
+//Ethereal Mimic spawned by innocent
+33 - 105 113 1
+//Watchman spawned by innocent
+34 - 102 113 1
+//Soldier spawned by innocent
+35 - 99 110 1
+//null spawned by innocent
+36 - 97 111 1
+//Sigbert the Adventurer spawned by innocent
+37 - 95 110 1
+//Shipyard worker spawned by innocent
+38 - 93 111 1
+//null spawned by innocent
+39 - 93 111 1
+//Shark spawned by innocent
+40 - 94 110 1
+//Chicken spawned by innocent
+41 - 95 112 1
+//Sheep spawned by innocent
+42 - 92 113 1
+//Sheep spawned by innocent
+43 - 90 113 1
+//null spawned by innocent
+44 - 89 114 1
+//Banker spawned by innocent
+45 - 87 114 1
+//Duck spawned by innocent
+46 - 86 114 1
+//Rat spawned by innocent
+47 - 85 114 1
+//Oomlie bird spawned by innocent
+48 - 84 114 1
+//Hellhound spawned by innocent
+49 - 82 114 1
+//King Black Dragon spawned by innocent
+50 - 81 113 1
+//Frost dragon spawned by innocent
+51 - 80 113 1
+//Baby blue dragon spawned by innocent
+52 - 84 113 1
+//Red dragon spawned by innocent
+53 - 83 113 1
+//Black dragon spawned by innocent
+54 - 83 113 1
+//Blue dragon spawned by innocent
+55 - 82 113 1
+//Dwarf spawned by innocent
+56 - 86 114 1
+//Fairy spawned by innocent
+57 - 88 113 1
+//Shadow spider spawned by innocent
+58 - 89 111 1
+//Giant spider spawned by innocent
+59 - 89 109 1
+//Giant spider spawned by innocent
+60 - 88 109 1
+//Spider spawned by innocent
+61 - 88 109 1
+//Jungle spider spawned by innocent
+62 - 90 109 1
+//Deadly red spider spawned by innocent
+63 - 91 109 1
+//Ice spider spawned by innocent
+64 - 92 109 1
+//Dwarf spawned by innocent
+65 - 93 109 1
+//Gnome spawned by innocent
+66 - 94 109 1
+//Gnome spawned by innocent
+66 - 95 107 1
+//Gnome spawned by innocent
+67 - 95 106 1
+//Gnome spawned by innocent
+67 - 96 106 1
+//Gnome spawned by innocent
+68 - 96 105 1
+//Sten spawned by innocent
+69 - 96 104 1
+//null spawned by innocent
+70 - 96 103 1
+//null spawned by innocent
+70 - 96 103 1
+//null spawned by innocent
+70 - 96 103 1
+//null spawned by innocent
+70 - 96 103 1
+//null spawned by innocent
+70 - 96 103 1
+//null spawned by innocent
+70 - 96 103 1
+//null spawned by innocent
+70 - 96 103 1
+//null spawned by innocent
+70 - 96 103 1
+//Sten spawned by innocent
+71 - 96 102 1
+//Troll spawned by innocent
+72 - 97 101 1
+//Zombie spawned by innocent
+73 - 97 101 1
+//Zombie spawned by innocent
+74 - 99 100 1
+//Zombie spawned by innocent
+75 - 99 100 1
+//Zombie spawned by innocent
+76 - 99 99 1
+//Summoned Zombie spawned by innocent
+77 - 99 99 1
+//Giant bat spawned by innocent
+78 - 103 99 1
+//Death wing spawned by innocent
+79 - 105 98 1
+//Camel spawned by innocent
+80 - 106 96 1
+//Cow spawned by innocent
+81 - 107 94 1
+//Lesser demon spawned by innocent
+82 - 108 92 1
+//Greater demon spawned by innocent
+83 - 109 91 1
+//Black demon spawned by innocent
+84 - 110 90 1
+//Suak spawned by innocent
+85 - 111 89 1
+//Suak spawned by innocent
+85 - 111 89 1
+//Suak spawned by innocent
+85 - 112 87 1
+//Giant rat spawned by innocent
+86 - 112 86 1
+//Giant rat spawned by innocent
+87 - 112 85 1
+//Dungeon rat spawned by innocent
+88 - 112 84 1
+//Unicorn spawned by innocent
+89 - 112 82 1
+//Skeleton spawned by innocent
+90 - 113 80 1
+//Skeleton spawned by innocent
+91 - 111 79 1
+//Skeleton spawned by innocent
+92 - 111 79 1
+//Skeleton spawned by innocent
+93 - 110 80 1
+//Skeleton Mage spawned by innocent
+94 - 108 80 1
+//Wolf spawned by innocent
+95 - 106 80 1
+//Adolescent White wolf spawned by innocent
+96 - 105 79 1
+//White wolf spawned by innocent
+97 - 103 80 1
+//Dog spawned by innocent
+98 - 101 79 1
+//Guard dog spawned by innocent
+99 - 100 78 1
+//Freaky Forester spawned by innocent
+100 - 99 76 1
+//Fred the Farmer spawned by dsnop
+758 - 3190 3273 0
+//Man spawned by innocent
+170 - 85 81 1
+//Man spawned by innocent
+351 - 85 81 1
+//Man spawned by innocent
+351 - 85 80 1
+//Man spawned by innocent
+351 - 85 80 1
+//Man spawned by innocent
+351 - 85 80 1
+//Man spawned by innocent
+351 - 85 80 1
+//Man spawned by innocent
+351 - 85 80 1
+//Man spawned by innocent
+351 - 85 80 1
+//Man spawned by innocent
+351 - 85 80 1
+//Man spawned by innocent
+351 - 85 80 1
+//Man spawned by innocent
+351 - 85 80 1
+//Watchman spawned by dsnop
+34 - 3240 3496 1
+//Watchman spawned by dsnop
+34 - 3241 3496 1
+//Fremennik man spawned by dsnop
+2462 - 2666 3652 0
+//Pontak spawned by dsnop
+1309 - 2628 3654 0
+//Guard spawned by dsnop
+32 - 2660 3656 0
+//Guard spawned by dsnop
+298 - 2658 3658 0
+//Monkey spawned by dsnop
+2301 - 3398 2915 0
+//Billy Goat spawned by dsnop
+4935 - 3400 2926 0
+//Goat spawned by dsnop
+4933 - 3398 2929 0
+//Goat spawned by dsnop
+4934 - 3398 2933 0
+//Seddu spawned by dsnop
+3038 - 3407 2925 0
+//Kazemde spawned by dsnop
+3039 - 3415 2906 0
+//null spawned by dsnop
+3030 - 3422 2913 0
+//Shiratti the Custodian spawned by dsnop
+3044 - 3424 2929 0
+//Nkuku spawned by dsnop
+3032 - 3419 2938 0
+//Usi spawned by dsnop
+3031 - 3428 2908 0
+//null spawned by dsnop
+3035 - 3428 2900 0
+//null spawned by dsnop
+13181 - 3432 2914 0
+//Garai spawned by dsnop
+3033 - 3434 2905 0
+//Artimeus spawned by dsnop
+5109 - 3442 2902 0
+//Zahra spawned by dsnop
+3036 - 3448 2895 0
+//Zahur spawned by dsnop
+3037 - 3440 2886 0
+//Nardah Banker spawned by dsnop
+3046 - 3425 2889 0
+//Nardah Banker spawned by dsnop
+3046 - 3425 2891 0
+//Nardah Banker spawned by dsnop
+3046 - 3425 2893 0
+//Nardah Banker spawned by dsnop
+3046 - 3425 2894 0
+//null spawned by dsnop
+3040 - 3443 2914 0
+//null spawned by dsnop
+3043 - 3442 2920 0
+//null spawned by dsnop
+3041 - 3439 2916 0
+//null spawned by dsnop
+3042 - 3438 2915 0
+//Ghaslor the Elder spawned by dsnop
+3029 - 3442 2933 0
+//null spawned by dsnop
+2002 - 3315 2849 0
+//Simon Templeton spawned by dsnop
+3123 - 3344 2827 0
+//null spawned by dsnop
+1907 - 3488 3090 0
+//Monkey spawned by dsnop
+2301 - 3180 3043 0
+//Archaeologist spawned by dsnop
+1918 - 3179 3042 0
+//Camel spawned by dsnop
+80 - 3176 3043 0
+//Al Shabim spawned by dsnop
+832 - 3171 3027 0
+//Bedabin nomad spawned by dsnop
+833 - 3168 3029 0
+//Bedabin nomad fighter spawned by dsnop
+1239 - 3171 3029 0
+//Bedabin nomad spawned by dsnop
+833 - 3165 3033 0
+//Bedabin nomad fighter spawned by dsnop
+1239 - 3170 3035 0
+//Bedabin nomad spawned by dsnop
+833 - 3173 3034 0
+//Bedabin nomad spawned by dsnop
+833 - 3176 3033 0
+//Bedabin nomad fighter spawned by dsnop
+1239 - 3159 3028 0
+//Bedabin nomad fighter spawned by dsnop
+1239 - 3180 3027 0
+//Bedabin nomad spawned by dsnop
+833 - 3177 3037 0
+//Bedabin nomad fighter spawned by dsnop
+1239 - 3174 3048 0
+//Bedabin nomad guard spawned by dsnop
+834 - 3171 3045 0
+//Desert wolf spawned by dsnop
+6051 - 3153 3044 0
+//Bedabin nomad spawned by dsnop
+833 - 3158 3045 0
+//Bedabin nomad fighter spawned by dsnop
+1239 - 3162 3043 0
+//Bedabin nomad spawned by dsnop
+833 - 3157 3039 0
+//Bandit spawned by dsnop
+1931 - 3182 2958 0
+//null spawned by dsnop
+3143 - 3191 2926 0
+//null spawned by dsnop
+1989 - 3283 2810 0
+//null spawned by dsnop
+1989 - 3283 2809 0
+//Rat spawned by dsnop
+2682 - 2956 3192 0
+//Rat spawned by dsnop
+2682 - 2958 3192 0
+//Rat spawned by dsnop
+2682 - 2956 3193 0
+//Rat spawned by dsnop
+2682 - 2958 3193 0
+//Nex spawned by innocent
+13450 - 3008 5539 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//Man spawned by innocent
+1 - 3005 5515 0
+//null spawned by dsnop
+8709 - 3278 2802 0
+//Plague cow spawned by dsnop
+2000 - 3279 2800 0
+//Plague cow spawned by dsnop
+1999 - 3276 2802 0
+//Plague cow spawned by dsnop
+1998 - 3279 2799 0
+//Plague frog spawned by dsnop
+1997 - 3274 2799 0
+//Plague frog spawned by dsnop
+1997 - 3273 2802 0
+//Plague frog spawned by dsnop
+1997 - 3276 2799 0
+//Plague frog spawned by dsnop
+1997 - 3277 2796 0
+//Plague frog spawned by dsnop
+1997 - 3281 2797 0
+//Plague frog spawned by dsnop
+1997 - 3279 2793 0
+//Plague frog spawned by dsnop
+1997 - 3281 2790 0
+//Plague frog spawned by dsnop
+1997 - 3282 2787 0
+//Plague frog spawned by dsnop
+1997 - 3280 2784 0
+//null spawned by dsnop
+4478 - 3290 2787 0
+//null spawned by dsnop
+2013 - 3289 2784 0
+//null spawned by dsnop
+2013 - 3290 2784 0
+//null spawned by dsnop
+2013 - 3289 2784 0
+//Menaphite guard spawned by dsnop
+5277 - 3264 2785 0
+//Menaphite guard spawned by dsnop
+5277 - 3264 2784 0
+//null spawned by dsnop
+1990 - 3297 2785 0
+//null spawned by dsnop
+1979 - 3298 2797 0
+//null spawned by dsnop
+1978 - 3300 2799 0
+//Jex spawned by dsnop
+5279 - 3306 2800 0
+//null spawned by dsnop
+1982 - 3311 2790 0
+//null spawned by dsnop
+1983 - 3316 2789 0
+//Carpenter spawned by dsnop
+1981 - 3314 2771 0
+//null spawned by dsnop
+1979 - 3308 2771 0
+//null spawned by dsnop
+1978 - 3306 2769 0
+//Neite spawned by dsnop
+1992 - 3313 2756 0
+//null spawned by dsnop
+1978 - 3290 2760 0
+//null spawned by dsnop
+1978 - 3288 2763 0
+//null spawned by dsnop
+1979 - 3288 2759 0
+//Neferti the Camel spawned by dsnop
+2815 - 3292 2755 0
+//null spawned by dsnop
+1980 - 3287 2755 0
+//null spawned by dsnop
+1988 - 3280 2762 0
+//null spawned by dsnop
+1988 - 3281 2766 0
+//null spawned by dsnop
+1988 - 3283 2770 0
+//null spawned by dsnop
+1985 - 3281 2772 0
+//Plague frog spawned by dsnop
+1997 - 3278 2758 0
+//Plague frog spawned by dsnop
+1997 - 3278 2757 0
+//Plague frog spawned by dsnop
+1997 - 3279 2756 0
+//Plague frog spawned by dsnop
+1997 - 3278 2754 0
+//Plague frog spawned by dsnop
+1997 - 3279 2752 0
+//Plague frog spawned by dsnop
+1997 - 3278 2751 0
+//Plague frog spawned by dsnop
+1997 - 3277 2752 0
+//Plague frog spawned by dsnop
+1997 - 3276 2758 0
+//The Fisher King spawned by danny
+220 - 2710 5350 0
+//Mr Ex spawned by danny
+3709 - 2710 5350 0
+//Captain of the Guard spawned by danny
+13633 - 2709 5347 0
+//Scribe spawned by danny
+5915 - 2709 5346 0
+//Grand Exchange clerk spawned by danny
+2593 - 2709 5345 0
+//Nastroth spawned by danny
+6539 - 2713 5339 0
+//Wise Old Man spawned by danny
+2253 - 2709 5354 0
+//Wizard Acantha spawned by danny
+8031 - 2712 5355 0
+//null spawned by danny
+8693 - 2703 5354 0
+//Assassin spawned by danny
+9044 - 2702 5354 0
+//Assassin spawned by danny
+9044 - 2704 5352 0
+//null spawned by danny
+8693 - 2704 5346 0
+//Estate agent spawned by danny
+4247 - 2719 5338 0
+//Kree'arra spawned by dsnop
+6222 - 3484 9492 1
+//Banker spawned by dsnop
+6200 - 3484 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//General Graardor spawned by dsnop
+6260 - 3488 9493 2
+//Gluttonous behemoth spawned by motherboard
+9948 - 74 72 0
+//Gluttonous behemoth spawned by motherboard
+9955 - 74 72 0
+//Gluttonous behemoth spawned by motherboard
+9954 - 74 72 0
+//Gluttonous behemoth spawned by motherboard
+9953 - 74 72 0
+//Gluttonous behemoth spawned by motherboard
+9952 - 73 72 0
+//Gluttonous behemoth spawned by motherboard
+9952 - 3461 3720 0
+//Gluttonous behemoth spawned by motherboard
+9953 - 3461 3720 0
+//Gluttonous behemoth spawned by motherboard
+9952 - 3461 3720 0
+//Gluttonous behemoth spawned by motherboard
+9959 - 3459 3719 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//Man spawned by adam
+2 - 2712 5345 0
+//RuneScape guide spawned by innocent
+945 - 3093 3104 0
+//RuneScape guide spawned by innocent
+945 - 3093 3104 0
+//RuneScape guide spawned by innocent
+945 - 3093 3104 0
+//RuneScape guide spawned by innocent
+945 - 3093 3104 0
+//RuneScape guide spawned by innocent
+945 - 3093 3104 0
+//RuneScape guide spawned by innocent
+945 - 3093 3104 0
+//RuneScape guide spawned by innocent
+945 - 2713 5353 0
+//Tanner spawned by dsnop
+804 - 2711 5346 0
+//Tanner spawned by dsnop
+2320 - 2712 5347 0
+//Ellis spawned by gummybear
+2824 - 2713 5352 0
+//Ellis spawned by gummybear
+2824 - 2713 5351 0
+//Ellis spawned by gummybear
+2824 - 2713 5351 0
+//Ellis spawned by gummybear
+2824 - 2713 5351 0
+//Ellis spawned by dsnop
+2824 - 3273 3195 0
+//Man spawned by dsnop
+1 - 2712 5346 0
+//Woman spawned by dsnop
+4 - 2712 5347 0
+//Man spawned by dsnop
+1 - 2713 5346 0
+//Man spawned by dsnop
+1 - 2712 5345 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Man spawned by dsnop
+1 - 3603 3529 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Zombie spawned by dsnop
+73 - 3684 3473 0
+//Hans spawned by max
+0 - 3040 4834 0
+//Bush spawned by gummybear
+8105 - 3342 3337 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Man spawned by dsnop
+1 - 72 329 0
+//Hairdresser spawned by multak
+598 - 2696 5332 0
+//Thessalia spawned by multak
+548 - 2694 5332 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Mercenary mage spawned by dsnop
+8335 - 71 3797 0
+//Man spawned by multak
+1 - 2815 5518 0
+//Man spawned by multak
+1 - 2815 5518 0
+//Man spawned by multak
+1 - 2815 5518 0
+//Man spawned by multak
+1 - 2815 5518 0
+//Man spawned by multak
+1 - 2815 5518 0
+//Man spawned by multak
+1 - 2815 5518 0
+//Man spawned by multak
+1 - 2815 5518 0
+//Man spawned by multak
+1 - 2815 5518 0
+//Man spawned by multak
+1 - 2815 5518 0
+//Man spawned by multak
+1 - 2815 5518 0
+//Man spawned by multak
+1 - 2815 5518 0
+//Man spawned by multak
+1 - 2815 5518 0
+//Man spawned by multak
+1 - 2815 5518 0
+//Bush spawned by innocent
+8105 - 2759 3614 0
+//Bush spawned by innocent
+8105 - 2759 3614 0
+//Bush spawned by innocent
+8105 - 2759 3614 0
+//Bush spawned by innocent
+8105 - 2759 3614 0
+//Bush spawned by innocent
+8105 - 2759 3614 0
+//Bush spawned by innocent
+8105 - 2759 3614 0
+//Bush spawned by innocent
+8105 - 2759 3614 0
+//Bush spawned by innocent
+8105 - 2759 3614 0
+//Bush spawned by innocent
+8105 - 2759 3614 0
+//Bush spawned by innocent
+8105 - 2759 3614 0
+//Bush spawned by innocent
+8105 - 2759 3614 0
+//Bush spawned by innocent
+8105 - 2759 3614 0
+//Bush spawned by innocent
+8105 - 2759 3614 0
+//null spawned by innocent
+5529 - 2321 3793 0
+//null spawned by innocent
+5529 - 2321 3791 0
+//null spawned by innocent
+5529 - 2321 3791 0
+//null spawned by innocent
+5529 - 2321 3791 0
+//null spawned by innocent
+5529 - 2321 3791 0
+//null spawned by innocent
+5529 - 2321 3791 0
+//null spawned by innocent
+5529 - 2321 3791 0
+//null spawned by innocent
+5529 - 2321 3791 0
+//null spawned by innocent
+5529 - 2321 3791 0
+//null spawned by innocent
+5529 - 2321 3791 0
+//null spawned by innocent
+5529 - 2321 3791 0
+//null spawned by innocent
+5529 - 2321 3791 0
+//null spawned by innocent
+5529 - 2321 3791 0
+//null spawned by innocent
+5529 - 2321 3791 0
+//null spawned by innocent
+5529 - 2321 3791 0
+//null spawned by innocent
+5529 - 2321 3791 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2323 3789 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2325 3790 0
+//null spawned by innocent
+5529 - 2324 3795 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2711 5343 0
+//null spawned by innocent
+5529 - 2711 5343 0
+//null spawned by innocent
+5529 - 2711 5343 0
+//null spawned by innocent
+5529 - 2711 5343 0
+//null spawned by innocent
+5529 - 2711 5343 0
+//null spawned by innocent
+5529 - 2711 5343 0
+//null spawned by innocent
+5529 - 2711 5343 0
+//null spawned by innocent
+5529 - 2711 5343 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5341 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2710 5339 0
+//null spawned by innocent
+5529 - 2711 5337 0
+//null spawned by innocent
+5529 - 2711 5337 0
+//null spawned by innocent
+5529 - 2711 5337 0
+//null spawned by innocent
+5529 - 2711 5337 0
+//null spawned by innocent
+5529 - 2711 5337 0
+//null spawned by innocent
+5529 - 2711 5337 0
+//null spawned by innocent
+5529 - 2711 5337 0
+//null spawned by innocent
+5529 - 2711 5337 0
+//null spawned by innocent
+5529 - 2711 5337 0
+//null spawned by innocent
+5529 - 2711 5337 0
+//null spawned by innocent
+5529 - 2711 5337 0
+//null spawned by innocent
+5529 - 2711 5337 0
+//null spawned by innocent
+5529 - 2711 5337 0
+//null spawned by innocent
+5529 - 2711 5337 0
+//null spawned by innocent
+5529 - 2711 5337 0
+//null spawned by innocent
+5529 - 2711 5337 0
+//null spawned by innocent
+5529 - 2711 5339 0
+//null spawned by innocent
+5529 - 2711 5339 0
+//null spawned by innocent
+5529 - 2711 5339 0
+//null spawned by innocent
+5529 - 2711 5339 0
+//null spawned by innocent
+5529 - 2711 5339 0
+//null spawned by innocent
+5529 - 2711 5339 0
+//null spawned by innocent
+5529 - 2711 5339 0
+//null spawned by innocent
+5529 - 2711 5339 0
+//null spawned by innocent
+5529 - 2711 5339 0
+//null spawned by innocent
+5529 - 2711 5339 0
+//null spawned by innocent
+5529 - 2711 5339 0
+//null spawned by innocent
+5529 - 2711 5339 0
+//null spawned by innocent
+5529 - 2711 5339 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2712 5341 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5342 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5344 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5346 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2714 5348 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2712 5350 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2710 5348 0
+//null spawned by innocent
+5529 - 2711 5346 0
+//null spawned by innocent
+5529 - 2711 5346 0
+//null spawned by innocent
+5529 - 2711 5346 0
+//null spawned by innocent
+5529 - 2711 5346 0
+//null spawned by innocent
+5529 - 2711 5346 0
+//null spawned by innocent
+5529 - 2711 5346 0
+//null spawned by innocent
+5529 - 2711 5346 0
+//null spawned by innocent
+5529 - 2711 5346 0
+//null spawned by innocent
+5529 - 2711 5346 0
+//null spawned by innocent
+5529 - 2711 5346 0
+//null spawned by innocent
+5529 - 2711 5346 0
+//null spawned by innocent
+5529 - 2711 5346 0
+//null spawned by innocent
+5529 - 2711 5346 0
+//null spawned by innocent
+5529 - 2711 5346 0
+//null spawned by innocent
+5529 - 2711 5346 0
+//null spawned by innocent
+5529 - 2711 5346 0
+//null spawned by innocent
+5529 - 2712 5345 0
+//null spawned by innocent
+5529 - 2712 5345 0
+//null spawned by innocent
+5529 - 2712 5345 0
+//null spawned by innocent
+5529 - 2712 5345 0
+//null spawned by innocent
+5529 - 2712 5345 0
+//null spawned by innocent
+5529 - 2712 5345 0
+//null spawned by innocent
+5529 - 2712 5345 0
+//null spawned by innocent
+5529 - 2712 5345 0
+//null spawned by innocent
+5529 - 2712 5345 0
+//null spawned by innocent
+5529 - 2712 5345 0
+//null spawned by innocent
+5529 - 2712 5345 0
+//null spawned by innocent
+5529 - 2712 5345 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Man spawned by dsnop
+1 - 2324 3792 0
+//Oomlie bird spawned by dsnop
+48 - 2324 3794 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Rat spawned by dsnop
+47 - 2324 3793 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Dark beast spawned by innocent
+2783 - 1992 4651 0
+//Ancient ranger spawned by dsnop
+13457 - 2886 5205 1
+//Pit Scorpion spawned by danny
+109 - 2698 9774 0
+//Shadow warrior spawned by danny
+158 - 2700 9775 0
+//Gargoyle spawned by danny
+1610 - 2701 9776 0
+//Dust devil spawned by danny
+1624 - 2844 10210 0
+//Gargoyle spawned by danny
+1610 - 2844 10212 0
+//Gargoyle spawned by random
+9087 - 2667 10397 0
+//Gargoyle spawned by random
+6389 - 2659 10398 0
+//Gargoyle spawned by random
+1610 - 2659 10390 0
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2715 5351 2
+//Mercenary mage spawned by random
+8335 - 2716 5352 2
+//Mercenary mage spawned by random
+8335 - 2716 5352 2
+//Mercenary mage spawned by random
+8335 - 2716 5352 2
+//Mercenary mage spawned by random
+8335 - 2716 5352 2
+//Mercenary mage spawned by random
+8335 - 2716 5352 2
+//Mercenary mage spawned by random
+8335 - 2716 5352 2
+//Mercenary mage spawned by random
+8335 - 2716 5352 2
+//Mercenary mage spawned by random
+8335 - 2716 5352 2
+//Mercenary mage spawned by random
+8335 - 2716 5352 2
+//Mercenary mage spawned by random
+8335 - 2716 5352 2
+//Mercenary mage spawned by random
+8335 - 2716 5352 2
+//Mercenary mage spawned by random
+8335 - 2716 5352 2
+//Mercenary mage spawned by random
+8335 - 2716 5352 2
+//Mercenary mage spawned by random
+8335 - 2716 5352 2
+//Mercenary mage spawned by random
+8335 - 2716 5352 2
+//Mercenary mage spawned by random
+8335 - 2713 5351 2
+//Mercenary mage spawned by random
+8335 - 2713 5351 2
+//Mercenary mage spawned by random
+8335 - 2713 5351 2
+//Mercenary mage spawned by random
+8335 - 2713 5351 2
+//Mercenary mage spawned by random
+8335 - 2713 5351 2
+//Mercenary mage spawned by random
+8335 - 2713 5351 2
+//Mercenary mage spawned by random
+8335 - 2713 5351 2
+//Mercenary mage spawned by random
+8335 - 2713 5351 2
+//Mercenary mage spawned by random
+8335 - 2713 5351 2
+//Mercenary mage spawned by random
+8335 - 2713 5351 2
+//Ahrim the Blighted spawned by dsnop
+2025 - 3553 9701 3
+//Santa spawned by dsnop
+1552 - 2653 5665 0
+//Santa Claus spawned by dsnop
+9400 - 2654 5666 0
+//Santa Claus spawned by dsnop
+8540 - 2653 5666 0
+//Santa Claus spawned by dsnop
+9400 - 2653 5665 0
+//Strange plant spawned by dsnop
+8640 - 2657 5664 0
+//Santa Claus spawned by dsnop
+8540 - 2657 5664 0
+//Mr Ex spawned by dsnop
+3709 - 2651 5675 0
+//Grand Exchange clerk spawned by dsnop
+2593 - 2659 5675 0
+//Leeuni spawned by danny
+13216 - 2655 5665 0
+//Gargoyle spawned by random
+6389 - 2645 5672 0
+//Glosur spawned by innocent
+8684 - 2648 5671 0
+//Glosur spawned by innocent
+8684 - 2647 5671 0
+//Gargoyle spawned by innocent
+6389 - 2646 5670 0
+//Gargoyle spawned by innocent
+6389 - 2644 5670 0
+//Gargoyle spawned by innocent
+6389 - 2644 5670 0
+//RuneScape guide spawned by innocent
+945 - 2712 5349 0
+//RuneScape guide spawned by innocent
+945 - 2856 2961 0
+//RuneScape guide spawned by innocent
+945 - 2857 2960 0
+//RuneScape guide spawned by innocent
+945 - 2857 2960 0
+//RuneScape guide spawned by innocent
+945 - 2857 2960 0
+//RuneScape guide spawned by innocent
+945 - 2857 2960 0
+//RuneScape guide spawned by innocent
+945 - 2857 2960 0
+//Rutmir Arnhold spawned by innocent
+15045 - 2584 2852 0
+//TzTok-Jad spawned by innocent
+2745 - 2717 5310 0
+//null spawned by innocent
+16967 - 2704 5349 0
+//null spawned by innocent
+-1 - 2704 5349 0
+//Child spawned by innocent
+6336 - 2583 2853 0
+//Child spawned by innocent
+6336 - 2583 2852 0
+//null spawned by innocent
+3244 - 2643 3283 0
+//null spawned by innocent
+2262 - 2642 3283 0
+//null spawned by innocent
+2262 - 2709 5342 0
+//Leeuni spawned by innocent
+14602 - 2712 5348 0
+//Arnold Lydspor spawned by dsnop
+3824 - 2330 3689 0
+//Vorago spawned by random
+17161 - 2973 3428 0
+//Vorago spawned by random
+17161 - 2712 5346 0
+//Vorago spawned by random
+17161 - 2972 3429 0
+//Motherboard's dragon spawned by multak
+1599 - 2722 5355 0
+//Nex spawned by max
+13447 - 3112 3473 1
+//Nex spawned by max
+13450 - 3102 3477 1
+//Nex spawned by dsnop
+13450 - 2710 5347 1
+//Nex spawned by max
+13450 - 3101 3481 0
+//Baby Vorago spawned by multak
+3607 - 2659 5665 0

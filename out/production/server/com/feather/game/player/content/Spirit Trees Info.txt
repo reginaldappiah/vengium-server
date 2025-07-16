@@ -1,0 +1,51 @@
+Teleport Magic.java
+
+	public static void sendPlantTeleport(final Player player,
+			int i, int j, final WorldTile tile) {
+		if (!player.getControlerManager().processObjectTeleport(tile))
+			return;
+		WorldTasksManager.schedule(new WorldTask() {
+			int loop;
+
+			@Override
+			public void run() {
+				if (loop == 0) {
+					player.setNextAnimation(new Animation(7082));
+					player.setNextGraphics(new Graphics(1229));
+					player.lock(4);
+				} else if (loop == 2) {
+					player.setNextWorldTile(tile);
+				} else if (loop == 4) {
+				player.setNextAnimation(new Animation(7084));
+				player.setNextGraphics(new Graphics(1229));
+				} else if (loop == 5) {
+				player.setNextAnimation(new Animation(-1));
+				player.setDirection(6);
+				}
+				loop++;
+			}
+		}, 0, 1);
+	}
+
+Object Handler Data:
+
+import com.rs.game.player.content.SpiritTree;
+
+Option1:
+				else if (id == 1293 || id == 1294 || id == 1295 || id == 26720 || id == 26721 || id == 1317 || id == 68974 || id == 68973 || id == 26723)
+					player.getDialogueManager().startDialogue("SpiritTreeD");
+Option 2:
+
+				else if (id == 1317 || id == 26721 || id == 1295 || id == 1294 || id == 68974 || id == 68973)
+					SpiritTree.openSpiritTree(player);
+
+Button Handler Data:
+
+import com.rs.game.player.content.SpiritTree;
+
+		} else if (interfaceId == 864) {
+			SpiritTree.handleSpiritTree(player, componentId, slotId);
+
+Dialogue Handler Data:
+
+			handledDialogues.put("SpiritTreeD", (Class<Dialogue>) Class.forName(SpiritTreeD.class.getCanonicalName()));
